@@ -112,7 +112,7 @@ Salzburg
 <li>
 II.2017–VI.2017
 &nbsp;
-Macroeconomics - remote training organized by Polish Actuarial Society,
+Macroeconomics - remote training organized by The Polish Society of Actuaries,
 completed with passing the exam, 
 in Polish,
 Warsaw
@@ -136,7 +136,7 @@ Warsaw
 <b style="color:red;">
 X.2015–VI.2016
 &nbsp;
-Selected Actuarial Methods - approx. 112 hours long course organized by Polish Actuarial Society,
+Selected Actuarial Methods - approx. 112 hours long course organized by The Polish Society of Actuaries,
 with exercises in R,
 completed with passing the exam, 
 in Polish,
